@@ -66,10 +66,10 @@ SPEC CHECKSUMS:
   FirebaseInstanceID: 24958382a1011bba5aaff37e334e7a650b9118f5
   GoogleToolboxForMac: 2501e2ad72a52eb3dfe7bd9aee7dad11b858bd20
   GTMSessionFetcher: ebaa1f79a5366922c1735f1566901f50beba23b7
-  leveldb-library: 44ef425bfde64f5b41daef86b38db2d13edbbee1
+  leveldb-library: 4f9eedf84ab46b4fa3b7893bf30714b2a1a74022
   nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
   SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
 
-PODFILE CHECKSUM: ed6f4678b021f75e64cd169885630bd7f81b5def
+PODFILE CHECKSUM: 73334ccfaf87e032481bb4d5a7e1fb3f93702f04
 
 COCOAPODS: 1.3.1
